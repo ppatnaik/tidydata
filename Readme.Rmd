@@ -1,0 +1,9 @@
+---
+title: "Readme"
+output: html_document
+---
+
+'run_analysis.R' reads Smartphones Datasets on Human Activity Recognition. To run the code ensure that 'getdata-projectfiles-UCI HAR Dataset.zip' exists in the working directory.
+
+Upon successful completion of the script create a tidy dataset named 'SummaryData.txt' in the working directory.
+
